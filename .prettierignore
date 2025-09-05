@@ -1,0 +1,21 @@
+# Build outputs
+dist
+build
+.next
+out
+
+**/content/articles/*.md
+
+# Dependencies
+node_modules
+
+# Cache
+.cache
+.output
+
+# Coverage reports
+coverage
+
+# Misc
+.DS_Store
+*.log
